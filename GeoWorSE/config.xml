@@ -1,0 +1,7 @@
+<config-file>
+<param name="GEOWN_HOME">/opt/GeoWN3.1/</param>
+<param name="WN_HOME">/usr/local/WordNet-3.0/</param>
+<param name="STANFORD_NER_LIB">/opt/libs/stanford-ner-2012-07-09/classifiers/english.all.3class.distsim.crf.ser.gz</param>
+<param name="WN_MAPPINGS">/home/opts/share/wordnet-mappings/</param>
+	<param name="LUCENE_VERSION">LUCENE_31</param>
+</config-file>
