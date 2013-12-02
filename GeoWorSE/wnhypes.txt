@@ -1,0 +1,220 @@
+village
+dyke
+location
+junction
+hazard
+colony
+hotel
+building block
+resort area
+grounds
+mountain peak
+cantilever bridge
+African country
+promontory
+obstruction
+edifice
+island
+inlet
+shipway
+country
+river
+living accommodations
+harbour
+Balkan country
+neighbourhood
+French region
+channel
+valley
+volcano
+workplace
+land site
+North American country
+peak
+cathedral
+residence
+tableland
+geological formation
+swampland
+public school
+park
+boundary
+geographical area
+bush
+Soviet Socialist Republic
+range of mountains
+geographic area
+national park
+government building
+memorial
+borough
+compartment
+body of water
+square
+watershed
+South American country
+principality
+amphitheater
+steel arch bridge
+zikkurat
+plate
+Australian state
+garrison
+stronghold
+vacation spot
+wind
+harbor
+facility
+dockage
+peninsula
+campanile
+state
+Asian country
+pass
+naval battle
+ship canal
+community
+canal
+Scandinavian nation
+geyser
+state capital
+haven
+sea
+range
+dig
+lake
+European nation
+kingdom
+playing area
+pleasure ground
+port
+city state
+Canadian province
+loch
+athletic field
+platform
+district
+street
+cavern
+prairie
+cape
+Balkan state
+archipelago
+crest
+port of entry
+suburban area
+earth
+college
+cap
+zikurat
+Central American country
+concentration camp
+isle
+amphitheatre
+reservoir
+falls
+public square
+urban center
+station
+mark
+Italian region
+geographical region
+Scandinavian country
+landing place
+chain of mountains
+barrier
+archeological site
+Central American nation
+seating area
+Riyadh
+territorial dominion
+Asian nation
+American state
+city
+ziggurat
+playground
+fabric
+desert
+dominion
+coliseum
+seaport
+continent
+obstacle
+airport
+South American nation
+monument
+temple
+administrative division
+way
+grassland
+chain
+suburbia
+Baltic Republic
+site
+artificial lake
+administrative district
+air force academy
+highland
+estuary
+atoll
+county
+governing body
+strait
+gulf
+territory
+wall
+mountain range
+division
+champaign
+surface
+museum
+church
+province
+bay
+dam
+geographic region
+amusement park
+university
+Balkan nation
+land
+provincial capital
+African nation
+metropolis
+islet
+suburb
+North American nation
+city district
+Aegean island
+dike
+national capital
+docking facility
+airdrome
+embankment
+waterway
+mountain chain
+plateau
+capital
+territorial division
+hills
+settlement
+military installation
+region
+neighborhood
+fortress
+surface area
+capital of Saudi Arabia
+town
+aerodrome
+swamp
+geological fault
+military academy
+Baltic State
+ditch
+crossing
+coral reef
+castle
+building
+European country
+Swiss canton
+mountain pass
+waterfall
